@@ -18,6 +18,7 @@ The pricing model will likely be per student (with other considerations) and red
 - A teacher uploads a lesson plan or classroom findings to their shared resource space
 - The list is endless of various, granular cases of learning efforts.
 
+<img src="https://res.cloudinary.com/eduprojectsil/image/upload/e_cartoonify/v1590964519/Elizabeth_shared_a_sketch_with_you_gcdwkd.png" width="75%" />
 <img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1590905792/unnamed_zf5wyl.png" width="75%" />
 <img src="https://miro.medium.com/max/4576/1*s1cl2uJnKBRMejtef3Psjg.png" width="75%" />
 
