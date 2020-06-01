@@ -3,7 +3,9 @@
 <img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1589613611/Screen_Shot_2020-05-16_at_12.19.34_AM_iaa5zw.png" width="75%" />
 
 ## The Mission
-Robots Building Education searches for authentic ways to improve the quality of schools that participate in its program. Our philosophy is that online education must be fundamentally conservative in its approach and should deeply ponder on the product that it's building. For example, when creating a <i>"Learn how to code"</i> module, the goal of the product should answer <i>"What is the best way to teach this question"</i> rather than <i>"What is a cool way we can use technology to teach this question"</i>. We supercharge this by connecting classrooms, schools, and students in a meaningful ways through equity redistribution and community building. The participation of a school will financially support another school that needs more structural support.
+Robots Building Education searches for authentic ways to improve the quality of schools that participate in its program. Our philosophy is that online education must be fundamentally conservative in its approach and should deeply ponder on the product that it's building. We supercharge this by connecting classrooms, schools, and students in a meaningful ways through equity redistribution and community building. The participation of a school will financially support another school that needs more structural support through the sheer process of learning and participation. 
+
+When creating a <i>"Learn how to code"</i> module, the goal of the product should answer <i>"What is the best and most captivating way to teach this question and encourage discovery, engagement, and authenticity?"</i> rather than <i>"What is a cool way we can use technology to teach this question?"</i>. 
 
 I believe there are deeply unfair things about American education and I'm committed to trying to find ways to resolve them. The mission of ROBE is to make education as a whole more equitable, caring, and kind. ROBE aspires to make life more exciting, empowering, and meaningful. 
 
