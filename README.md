@@ -2,29 +2,40 @@
 
 <img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1589613611/Screen_Shot_2020-05-16_at_12.19.34_AM_iaa5zw.png" width="75%" />
 
-## The Product
-ROBE is short for **Ro**bots **B**uilding **E**ducation, an education outplatform that builds both online and physical schools. The central idea behind ROBE is to build a learning platform that rewards schools and students for their efforts and usage. The product will be sold to schools at some fixed value and redistribute some of that cost to a larger pool that will be injected into schools in need of more resources. 
+## The Mission
+Robots Building Education searches for authentic ways to improve the quality of schools that participate in its program. Our philosophy is that online education must be fundamentally conservative in its approach and should deeply ponder on the product that it's building. For example, when creating a <i>"Learn how to code"</i> module, the goal of the product should answer <i>"What is the best way to teach this question"</i> rather than <i>"What is a cool way we can use technology to teach this question"</i>. We supercharge this by connecting classrooms, schools, and students in a meaningful ways through equity redistribution and community building. The participation of a school will financially support another school that needs more structural support.
 
-The pricing model will likely be per student (with other considerations) and redistributed similarly through the creative use of cloud pay-as-used transaction system. For a example: 
+I believe there are deeply unfair things about American education and I'm committed to trying to find ways to resolve them. The mission of ROBE is to make education as a whole more equitable, caring, and kind. ROBE aspires to make life more exciting, empowering, and meaningful. 
 
-- A student answers something correctly
+ROBE is inspired by the idea of the _One World Schoolhouse_, a wonderful vision created by Salman Khan.
+
+
+<img src="https://res.cloudinary.com/eduprojectsil/image/upload/e_cartoonify/v1590964519/Elizabeth_shared_a_sketch_with_you_gcdwkd.png" width="75%" />
+
+## The Product & Business
+ROBE is short for **Ro**bots **B**uilding **E**ducation, an education platform that builds both online and physical school infrastructure. The central idea behind ROBE is to build learning tools that reward schools and students for their efforts and usage. The product will be sold to schools by per-student and redistribute some of that cost to a larger pool that will be injected into schools in need of more resources. 
+
+The redistribution process will be a creative use of cloud pay-as-used transaction systems. The following examples are all various network requests that could be "transact"-ified: 
+
+<img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1590905792/unnamed_zf5wyl.png" width="75%" />
+
+- A student answers something correctly 
 - A student answers something something correctly on first try
 - A student answers something correctly on the N-th try
 - Analytics determines that 85% of students get a "highly rated" problem wrong on the first try, and a student succeeds on the first try
 - A student engages with the module's features that assist teachers, themselves, or other students
 - A student completes 40-100% of a video
-- A student posts, answers, likes, favorites questions and answers
-- A teacher grades homework or answers a student instanced questions
-- A teacher uploads a lesson plan or classroom findings to their shared resource space
+- A student posts, answers, likes, and favorites questions and answers
+- A teacher grades homework or answers a student's instanced question or help-request
+- A teacher uploads a lesson plan or classroom findings to their shared teacher-resource space
 - The list is endless of various, granular cases of learning efforts.
 
-<img src="https://res.cloudinary.com/eduprojectsil/image/upload/e_cartoonify/v1590964519/Elizabeth_shared_a_sketch_with_you_gcdwkd.png" width="75%" />
-<img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1590905792/unnamed_zf5wyl.png" width="75%" />
+
 <img src="https://miro.medium.com/max/4576/1*s1cl2uJnKBRMejtef3Psjg.png" width="75%" />
 
 
 ## Development Priorities
-Quality over everything. Education lacks fault tolerance to a rather grim extent. The should be mindful and built around this. In this case, the software serves to empower education participants and will otherwise fail when that is not executed on correctly.
+Quality over everything. Education lacks fault tolerance to a rather grim extent and the software should be mindful and built around this. In this case, the software serves to empower education participants and will otherwise fail when that is not executed on correctly. In essence, the quality of the product is driven by captivating and successful pedagogies rather a standardization.
 
 ## Tech Stack - Long term goals
 The goal behind the tech stack is to select a suite of software tools that will define high-level software standards in the future with respects to networking speeds and accessibility. We want software tools that prioritize real-time data, native machining, security, and accessibility to quality regardless of location.
